@@ -1,0 +1,16 @@
+
+// @import "~taro-ui/dist/style/components/loading.scss";
+@import "~taro-ui/dist/style/components/button.scss";
+@import "~taro-ui/dist/style/components/search-bar.scss";
+@import "~taro-ui/dist/style/components/icon.scss";
+
+
+.root{
+    padding: 24px 20px;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
